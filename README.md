@@ -1,6 +1,6 @@
 # ⚡ Project Name
 
-> This project is part of Special Topics in Database's class, I focused on cleaning and preparing data for the next step (PowerBI).
+> This group project is part of Special Topics in Database's class, I focused on cleaning and preparing data for the next step (PowerBI).
 
 ---
 
