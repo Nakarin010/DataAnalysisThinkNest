@@ -1,0 +1,47 @@
+# Alteryx files
+*.yxdb
+*.yxzp
+*.bak
+Engine_*
+*.tmp
+
+# Data files (large datasets)
+*.csv
+*.xlsx
+*.xls
+data/raw/*
+!data/raw/.gitkeep
+
+# PDF outputs (can be regenerated)
+# Uncomment if you want to exclude PDFs from version control
+# *.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Windows
+*.lnk
+
+# Temporary files
+~$*
+*.temp
+
+# Python (if used)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# R (if used)
+.Rhistory
+.RData
+.Rproj.user
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
