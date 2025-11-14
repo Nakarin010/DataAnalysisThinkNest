@@ -18,7 +18,7 @@ This project analyzes cinema ticket sales data from Thailand's theatre industry,
 
 ---
 
-## 🎯 Project Goals
+## 🎯 Project Goals for my parts
 
 1. **Data Cleaning:** Address missing values and data quality issues
 2. **Data Modeling:** Restructure the data to align with Thailand theatre industry context
